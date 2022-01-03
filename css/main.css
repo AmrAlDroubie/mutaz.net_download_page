@@ -208,3 +208,8 @@ img {
     padding:9px 27px;
   }
 }
+
+/* banners for mobile only */
+.banners-caro{
+  margin-top: 15px;
+}
